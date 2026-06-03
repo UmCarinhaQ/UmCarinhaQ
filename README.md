@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Olá, meu nome é Wellington!
 
-<!--
-**UmCarinhaQ/UmCarinhaQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bem-vindo ao meu perfil do GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Here are some ideas to get you started:
+🎓 Iniciei minha jornada em 2023 na area de Tecnologia.
+Sou formado em cursos de a
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Atualmente, sou docente do curso Técnico em Desenvolvimento de Sistemas no Senac-RS de São Leopoldo.
+
+🚀 Tenho experiência com diversas linguagens e tecnologias (`JavaScript`,  `TypeScript`, `HTML5`, `SQL`, entre outras) e estou sempre buscando novos desafios que unam **tecnologia e inovação**.
+
+🎮 Apaixonado por games e café (muito café ☕).
+
+
+
+## 💻 Linguagens de programação
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
+</div>
+
+## 🛢️ Bancos de dados
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
+</div>
+
+## 🧰 Tecnologias e ferramentas
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML 5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS 3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="Visual Studio Code"/>
+</div>
+
+## 📬 Onde me encontrar
+
+Se quiser trocar uma ideia sobre tecnologia e gmaes me chame.
+
+<div>
+  <a href="https://www.instagram.com/silva_wellington___" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "wellingtondasilvarosa75@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhDSouza/dhDSouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhDSouza/dhDSouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dhDSouza/dhDSouza/output/pacman-contribution-graph.svg">
+</picture>

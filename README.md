@@ -23,7 +23,7 @@
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/dhDSouza">
+<a href="https://github.com/UmCarinhaQ">
   <div align=center>
     <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhDSouza&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide=css"/>
     <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhDSouza&layout=compact&langs_count=10&theme=react&hide=css"/>

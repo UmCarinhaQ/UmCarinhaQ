@@ -3,27 +3,32 @@
 ## Bem-vindo ao meu perfil do GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 🎓 Iniciei minha jornada em 2023 na area de Tecnologia.
-Sou formado em cursos de a
+ Sou estudante de Desenvolvimento de Sistemas e apaixonado por tecnologia.
 
-💼 Atualmente, sou docente do curso Técnico em Desenvolvimento de Sistemas no Senac-RS de São Leopoldo.
+🚀 Atualmente estudando:
+- Lógica de Programação
+- JavaScript
+- TypeScript
+- Node.js
+- Banco de Dados (SQL)
 
 🚀 Tenho experiência com diversas linguagens e tecnologias (`JavaScript`,  `TypeScript`, `HTML5`, `SQL`, entre outras) e estou sempre buscando novos desafios que unam **tecnologia e inovação**.
 
 🎮 Apaixonado por games e café (muito café ☕).
 
-
+🎯 Objetivos:
+- Me tornar um Desenvolvedor Full Stack
+- Contribuir para projetos reais
+- Construir soluções que ajudem pessoas
 
 ## 💻 Linguagens de programação
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
-</div>
-
-## 🛢️ Bancos de dados
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
 </div>
 
 ## 🧰 Tecnologias e ferramentas
